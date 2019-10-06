@@ -1,1 +1,4 @@
-out/*
+# All the out files
+*.o
+# All vim swap files
+*.swp
